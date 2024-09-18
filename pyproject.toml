@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 flask = "^3.0.3"
 requests = "^2.32.3"
+label-studio = "^1.13.1"
 
 
 [build-system]
